@@ -20,26 +20,11 @@ l2config=config${l2}.toml
 [[ ! -d ${l1content} ]] && [[ -d ${l2content} ]] && { echo "There is only one content directory. Second one missing"; exit 1; }
 [[ -d ${l1content} ]] && [[ ! -d ${l2content} ]] && { echo "There is only one content directory. Second one missing"; exit 1; }
 
-#
-# To start clean:
-# rm -rf {hh,ee}content $etarg $htarg
-# or, to make fresh on every build
-# if [ -d $targ ]; then
-#   rm -rf $targ/*
-# fi
-#
-# We don't want a content directory. hcontent and econtent will each become content in turn
-if [ -d content ]; then
-  rm -rf content
-fi
-
 # Hebrew (first language) section
-
 hugo --config="${l1config}" -d ${l1targ} -t redlounge -b $2 # Make Hebrew site in hpublic
 
 # Change the string "index.xml" appearing in all the files named index.* to "hindex.xml"
 dir=${l1targ}
-echo "dir is $dir"
 find $dir -type f -name 'index.*' -exec sed -i "s/index.xml/${l1index}.xml/" {} +
 # Rename all the files named index.xml hindex.*
 for file in $(find $dir -type f -name index.xml); do
