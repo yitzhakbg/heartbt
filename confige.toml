@@ -10,7 +10,6 @@ contentdir = "econtent"
 staticdir = "../static"
 ThemesDir = "../themes"
 
-
 [author]
     name = "Yitzhak Bar Geva"
 
