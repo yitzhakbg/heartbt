@@ -6,10 +6,8 @@ author = "YBG"
 date = "2016-03-15T16:08:53+02:00"
 menu = "main"
 title = "Multilingual Site with two-pass build"
-
+subtitle = "Merge different Language Content Branches"
 +++
-
-## Merge different Language Content Branches on Build ##
 
 None of the current Hugo multi-lingual solutions seemed right to me so I rolled my own.
 
@@ -25,6 +23,7 @@ config**e**.toml | config**h**.toml
 For English  | For Hebrew
 ![image](/images/confige_toml.jpg) | ![image](/images/configh_toml.jpg) 
 
+### Two pass build and merge
 Hugo runs (twice or more) to generate the language sites in temporary folders which are merged in to one as follows:
 
 1. All appearances of "index.xml" in files named index.* in the Hebrew target tree are renamed to **h**index.xml.
