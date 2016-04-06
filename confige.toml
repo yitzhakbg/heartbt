@@ -22,7 +22,7 @@ ThemesDir = "../themes"
   Facebook = "yitzhakbg"
   Twitter = "yitzhakbg"
   Github = "yitzhakbg"
-  ShowRelatedPost = true
+  ShowRelatedPost = false
   Disqus = "Your Disqus."
   SyntaxHighlightTheme = "solarized_dark.min.css"
   sidebartitle = "YBG"
@@ -48,6 +48,22 @@ ThemesDir = "../themes"
     name = "Tech Blog"
     URL = "/tech"
 
+[[menu.main]]
+    name = "How to"
+    URL = "/how"
+
+[[menu.main]]
+    name = "Presentations"
+    URL = "/slide"
+
+[[menu.main]]
+    name = "Networking"
+    URL = "/networking"
+
+[[menu.main]]
+    name = "Configurations"
+    URL = "/configs"
+
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     URL = "http://www.twitter.com/yitzhakbg"
@@ -65,5 +81,4 @@ ThemesDir = "../themes"
 
 [[menu.footer]]
     name = "Blog"
-    URL = "/article"
-
+    URL = "/tech"

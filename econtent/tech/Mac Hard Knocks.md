@@ -4,7 +4,7 @@ Description = "Hard learned Mac lessons"
 Tags = ["Mac", "tips"]
 author = "YBG"
 date = "2015-12-27T16:27:35+03:00"
-menu = "main"
+# menu = "main"
 title = "Wild Quick Look & stuck boot"
 subtitle = "Memory usage blows up and boot gets stuck"
 +++

@@ -4,7 +4,7 @@ Description = "5th Generation Cellular D2D Opens the door to a new realm, orthog
 Tags = ["Protocoless", "D2D"]
 author = "YBG"
 date = "2015-11-27T16:27:35+03:00"
-menu = "main"
+# menu = "main"
 title = "Internet Outer Space"
 subtitle = "Expanding Bubbles"
 bannerinline = "/images/bubbles_in_bubbles.jpg"
@@ -28,4 +28,4 @@ A: Each wave was based on a new, smaller, less expensive, more accessible, more 
 
 See what computing platform could be smaller, more ubiquitous, less expensive, more programmable and vastly outstrip the billions of mobile and wireless devices in the world:
 
-{{% slideshare iph0gd6fuAYFMr %}}
+{{% slideshare thWuQ5At1kuVVb %}}

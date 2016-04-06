@@ -4,7 +4,7 @@ Description = "Mouseless Firefox with Pentadactyl"
 Tags = ["Firefox", "tips", "mouseless"]
 author = "YBG"
 date = "2016-02-19T12:03:18+02:00"
-menu = "main"
+# menu = "main"
 title = "Pentadactyl from source"
 +++
 ## Freedom from mice with Pentadactyl

@@ -4,7 +4,7 @@ Description = ""
 Tags = ["hugo, how, multilingual"]
 author = "YBG"
 date = "2016-03-15T16:08:53+02:00"
-menu = "main"
+# menu = "main"
 title = "Multilingual Hugo Site"
 subtitle = "Merge Language Content Branches with two-pass build"
 +++
