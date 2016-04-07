@@ -11,12 +11,11 @@ subtitle = "Internet as the Edge of something larger"
 # bannerfill = false
 +++
 # Supercomputing Everywhere
-## Pooled Computing
 What do Mobile Edge Computing, Supercomputing&nbsp;at&nbsp;the&nbsp;Edge, NFV, Fog&nbsp;Computing, Cisco&nbsp;IOx and the dozens of about&#8209;to&#8209;pop&#8209;up new buzzwords have in common?  
-A: They're about brainpowering the network in one way or another, as networking by its very essence was a dumb transport realm disengaged from computing since its inception.  
-
-The bulk of the world's computing power will soon be in the 
-&nbsp;Internet&nbsp;of&nbsp;Things' *things* and in mobile&nbsp;devices if it isn't already. Those *things* and mobile&nbsp;devices can do more by pooling their computing and networking resources between themselves without the Internet than with it, giving rise to the yearned&#8209;for fused networking/computing realm. And the good news is that can evolve freely, relieved of constricting protocol constraints.  All&#8209;pervasive computing&nbsp;networks live peacefully with the Internet which it will ultimately encompass as personal computing did to mainframe computing half a century ago.  
+A: They're about brainpowering the network in one way or another, since networking by its very essence is a dumb transport realm disengaged from computing 
+## Pooled Computing
+The bulk of the world's computing power is already or will soon be in the 
+&nbsp;Internet&nbsp;of&nbsp;Things' *things* and in mobile&nbsp;devices. Those *things* and mobile&nbsp;devices can do more by pooling their computing and networking resources between themselves without the Internet than with it, giving rise to the yearned&#8209;for fused networking/computing realm. And the good news is that can evolve freely, relieved of constricting protocol constraints.  All&#8209;pervasive computing&nbsp;networks live peacefully with the Internet which it will ultimately encompass as personal computing did to mainframe computing half a century ago.  
 
 [Supercomputing at the Edge](http://www.newelectronics.co.uk/article-images/75265/P27-28.pdf), like Mobile&#8209;Edge&#8209;Computing is about augmenting base stations with computational hardware in order to provide local data&nbsp;center&#8209;like processing, an important first step,
 
@@ -24,7 +23,7 @@ The bulk of the world's computing power will soon be in the
 	<img src="/images/SC_at_edge_chopped.jpg" class="pure-img" width="105%" />
 </div>
 
-but why do things the hard (and less efficient) way while the hardware can be in the devices themselves and the base-station is redundant for D2D networked applications?
+but why do things the hard (and less efficient) way? The needed hardware and more be in the devices themselves and the base-station is redundant for D2D networked applications?
 
 ## Internet as the Edge of
 The accumulated computing power of today's *edge* devices already outweighs what [Supercomputing&nbsp;at&nbsp;the&nbsp;Edge](http://www.newelectronics.co.uk/article-images/75265/P27-28.pdf) or Mobile&nbsp;Edge&nbsp;Computing can ever provide, for much less. So let's flip the model on its head and instead **view the&nbsp;Internet** with its 1960s&#8209;like remote&#8209;cloud&nbsp;data&nbsp;centers **as&nbsp;the&nbsp;edge of&nbsp;a&nbsp;new Supercomputing&nbsp;Everywhere&nbsp;realm** which harnesses those gargantuan, underused computing resources.
