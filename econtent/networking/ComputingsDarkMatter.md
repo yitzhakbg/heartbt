@@ -52,7 +52,7 @@ This gives rise for evolution of new computing models.
 Our pet model is running RDMA supercomputers over MANETs by stitching the devices into a common computing fabric which appear to the applications running on them as a single multi&#8209;core device and as mentioned, each application runs as an instance allowing for unlimited applications to run in parallel.  
 Imagine, for instance an ad&nbsp;hoc network (of thousands, tens of thousands) of mobile devices hosting a common Erlang Run Time System running applications which easily fan out to using the available processing power.
 
-See [Presentation online](https://heartbt.co.il/slide/wrdma/#1) or below (press -> or <shift> -> to advance):
+See [Presentation online](https://heartbt.co.il/slide/wrdma/#1) or below (press -> or *shift* -> to advance):
 
 <div class="embed remarkjs">
 <iframe class="remarkjs" type="text/html" width="832" height="630" src="https://goo.gl/DLXq4X" frameborder="0">
