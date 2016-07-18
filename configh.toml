@@ -9,8 +9,9 @@ tags = ["", "ללא פרוטוקול", "מכשיר למכשיר", "ללא חומ
 features = ["בלוג", "גלריה"]
 canonifyurls = true
 contentdir = "hcontent"
+layoutdir = "hlayouts"
 staticdir = "../static"
-ThemesDir = "../themes"
+themesDir = "../themes"
 alternatelangs = true
 
 [author]

@@ -7,8 +7,9 @@ tags = ["", "Protocoless", "D2D", "nowall"]
 features = ["blog", "gallery"]
 canonifyurls = true
 contentdir = "econtent"
+layoutdir = "layouts"
 staticdir = "../static"
-ThemesDir = "../themes"
+themesDir = "../themes"
 
 [author]
     name = "Yitzhak Bar Geva"
