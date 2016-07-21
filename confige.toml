@@ -67,7 +67,7 @@ themesDir = "../themes"
 
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
-    URL = "http://www.twitter.com/yitzhakbg"
+    URL = "https://www.twitter.com/yitzhakbg"
     identifier = "twitter"
 
 [[menu.social]]
