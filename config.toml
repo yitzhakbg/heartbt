@@ -6,8 +6,8 @@ description = "An excursion into YBG's inner world"
 tags = ["", "Protocoless", "D2D", "nowall"]
 features = ["blog", "gallery"]
 canonifyurls = true
-contentdir = "econtent"
-layoutdir = "layouts"
+# contentdir = "econtent"
+# layoutdir = "layouts"
 staticdir = "../static"
 themesDir = "../themes"
 
@@ -15,7 +15,7 @@ themesDir = "../themes"
     name = "Yitzhak Bar Geva"
 
 [params]
-  HomePage = "eindex.html"
+  HomePage = "index.html"
   nextHomePage = "hindex.html"
   nextlanguagetext = "Hebrew"
   Author = "Yitzhak Bar Geva"
@@ -43,7 +43,7 @@ themesDir = "../themes"
 
 [[menu.main]]
     name = "About"
-    URL = "/eabout"
+    URL = "/about"
 
 [[menu.main]]
     name = "Tech Blog"
@@ -72,7 +72,7 @@ themesDir = "../themes"
 
 [[menu.social]]
     pre = "<i class='fa fa-android'></i>"
-    URL = "/eabout"
+    URL = "/about"
     identifier = "ybg"
 
 [[menu.social]]

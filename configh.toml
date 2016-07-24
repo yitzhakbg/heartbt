@@ -19,7 +19,7 @@ alternatelangs = true
 
 [params]
   HomePage = "hindex.html"
-  nextHomePage = "eindex.html"
+  nextHomePage = "index.html"
   nextlanguagetext = "אנגלית"
   Author = "יצחק ב.ג."
   DateForm = "Mon, 2 Jan 2006"
@@ -51,7 +51,7 @@ alternatelangs = true
 
 [[menu.language]]
   pre = "<span class='pure-img' style=\"width: 50px; height: 29px; background-image: url('/images/EnglishLangFlag_50.png'); display:block\" />"
-  URL = "eindex.html"
+  URL = "index.html"
   identifier = "אנגלית"
 
 [[menu.social]]
