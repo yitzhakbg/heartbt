@@ -6,8 +6,8 @@ description = "An excursion into YBG's inner world"
 tags = ["", "Protocoless", "D2D", "nowall"]
 features = ["blog", "gallery"]
 canonifyurls = true
-# contentdir = "econtent"
-# layoutdir = "layouts"
+
+
 staticdir = "../static"
 themesDir = "../themes"
 
