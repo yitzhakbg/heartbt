@@ -11,7 +11,7 @@ next = "true"
 notoc = "true"
 nopaging = "true"
 slides = "true"
-slidesFile = "wrdmaslides.md"
+slidesFile = "wrdmaslideshortened.md"
 nofooter = "true"
 
 +++
